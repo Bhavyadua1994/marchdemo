@@ -13,3 +13,4 @@ pull request on new branch.
 using octopus for configuartion with jenkins.
 
 new command.
+deploy release in octopus.

@@ -10,4 +10,4 @@ Another try for pull request.
 
 pull request on new branch.
 
-using octopus.
+using octopus for configuartion with jenkins.
